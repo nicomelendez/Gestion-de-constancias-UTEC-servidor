@@ -21,8 +21,8 @@ import com.entities.Usuario;
 @Stateless
 public class EmailBean implements EmailBeanRemote {
 
-	private String mail = "gestiondeconstanciasutec@gmail.com";
-	private String password = "ztmeezskdyholoxk";
+	private String mail = "tuemail@mail.com";
+	private String password = "tucontraseña";
 
 	/**
 	 * Default constructor.
